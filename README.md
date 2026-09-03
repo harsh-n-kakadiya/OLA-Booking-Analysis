@@ -81,7 +81,7 @@ The dataset includes information related to:
 ## Technologies Used
 
 - SQL
-- MySQL / PostgreSQL
+- MySQL
 - Power BI
 - DAX
 - Microsoft Excel
